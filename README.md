@@ -76,32 +76,33 @@
 
 <h2 align="center">🌟 Featured Projects</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="YOUR_PROJECT_LINK_1" target="_blank">🏝️ Explore Penyengat</a></h4>
-      <p>A smart tourism web app for Pulau Penyengat, combining location-based services, A* pathfinding, 3D landmark models, and an AI-powered travel assistant.</p>
-      <b>Stack:</b> React · Vite · Leaflet.js · Three.js
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="YOUR_PROJECT_LINK_2" target="_blank">🧠 Nalara: AI Learning App</a></h4>
-      <p>An adaptive learning assistant, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.</p>
-      <b>Stack:</b> Flutter · Riverpod · Node.js
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="YOUR_PROJECT_LINK_3" target="_blank">🔒 ECCChat</a></h4>
-      <p>A secure Android chat app implementing Elliptic Curve Cryptography from scratch in Kotlin, with traffic verified end-to-end using Wireshark.</p>
-      <b>Stack:</b> Kotlin · ECC · Wireshark
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="YOUR_PROJECT_LINK_4" target="_blank">🗺️ Isometric City Pathfinding Visualizer</a></h4>
-      <p>A Python/Pygame simulation comparing A* and Bidirectional A* pathfinding over a procedurally generated isometric city (MST + convex hull road layout).</p>
-      <b>Stack:</b> Python · Pygame
-    </td>
-  </tr>
-</table>
+<br>
+
+### 🏝️ Explore Penyengat
+A smart tourism web app for Pulau Penyengat, combining location-based services, A* pathfinding, 3D landmark models, and an AI-powered travel assistant.  
+**Stack:** React · Vite · Leaflet.js · Three.js  
+🔗 [View Project](YOUR_PROJECT_LINK_1)
+
+<br>
+
+### 🧠 Nalara: AI Learning App
+An adaptive learning assistant, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.  
+**Stack:** Flutter · Riverpod · Node.js  
+🔗 [View Project](YOUR_PROJECT_LINK_2)
+
+<br>
+
+### 🔒 ECCChat
+A secure Android chat app implementing Elliptic Curve Cryptography from scratch in Kotlin, with traffic verified end-to-end using Wireshark.  
+**Stack:** Kotlin · ECC · Wireshark  
+🔗 [View Project](YOUR_PROJECT_LINK_3)
+
+<br>
+
+### 🗺️ Isometric City Pathfinding Visualizer
+A Python/Pygame simulation comparing A* and Bidirectional A* pathfinding over a procedurally generated isometric city (MST + convex hull road layout).  
+**Stack:** Python · Pygame  
+🔗 [View Project](YOUR_PROJECT_LINK_4)
 
 ---
 
