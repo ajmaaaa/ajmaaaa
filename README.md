@@ -29,48 +29,14 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<table width="100%">
-  <tr><th align="left" width="30%">Category</th><th align="left" width="70%">Stack</th></tr>
-  <tr>
-    <td align="left" width="25%"><b>Automation</b></td>
-    <td align="left" width="75%">
-      <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
-      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-2b2b52?style=flat-square" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>OS</b></td>
-    <td align="left" width="75%"><a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a></td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>Languages</b></td>
-    <td align="left" width="75%">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-      <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-      <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
-      <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>Web & Mobile</b></td>
-    <td align="left" width="75%">
-      <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
-      <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></a>
-      <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>Data</b></td>
-    <td align="left" width="75%"><a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td align="left" width="25%"><b>Other Tools</b></td>
-    <td align="left" width="75%">
-      <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-      <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+| Category | Stack |
+|---|---|
+| **Automation** | [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io) [![Hermes](https://img.shields.io/badge/Hermes-2b2b52?style=flat-square)](https://hermes-ai.net) |
+| **OS** | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org) |
+| **Languages** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) |
+| **Web & Mobile** | [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) |
+| **Data** | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org) |
+| **Other Tools** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com) |
 
 ---
 
@@ -119,7 +85,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight&card_width=790" alt="streak stats"/>
 </p>
 
 ---
