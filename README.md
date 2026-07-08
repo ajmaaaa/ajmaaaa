@@ -30,45 +30,51 @@
 ### 🛠️ Tech Stack & Tools
 
 <table width="100%">
-  <tr><th align="left" width="30%">Category</th><th align="left" width="70%">Stack</th></tr>
+  <tr><th align="left" width="15%">Category</th><th align="left" width="25%">Stack</th><th align="left" width="60%">Description</th></tr>
   <tr>
-    <td align="left" width="25%"><b>Automation</b></td>
-    <td align="left" width="75%">
+    <td align="left" valign="top"><b>Automation</b></td>
+    <td align="left" valign="top">
       <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
-      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-2b2b52?style=flat-square&logo=data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAACiElEQVR4nD2QT0sbCRxA3/xDjGaCaZZEiWh01A/QghdPW%2Bbg9gt42F5T7KGLICIspetNuwcPLXjypIhXIbZzCkaP4iXmoKNIwKhtEtPoEI0zjr89rQ/e/fGUYrEYJhIJFEUhFotxcXGB53m4rsv29ja2bTM5OYmI8PDwgKZp1Ot1qNVqIiLSbrdlYWFBMpmM9Pb2yocPf8nnz/8KILZtS7Valf%2Bp1%2BuihmHI4%2BMjb9/%2BydLSEp7nEYlECAKf169/Z3Z2lnK5TKFQoN1uIyIEQYDSaDTk9PSUzc1NWq0Wd3d3WJaF67oUi0W%2BfPnKx49/8%2BtXk5WVFSYmJri6uoLLy0sZHx8XVVUFkM7OTgGeHRoaEtM0BZCZmRkREalUKqJrmkaj0eDp6Ynp6Wmq1Rp%2B4PNbIsHGxgbn5%2Bd0dXWh6zp7e3sAaJoGt7e3ks/nxbZtKZVKUiqVZHl5WUREksmkpFIpicfj0t3dLaZpSrPZlOvra6FSqYiIyPr6uriu%2B3zu7OxMOjo6npN7enoEkJ2dHbm/vxfVMAyCIMB1XVzXxfM8wjDk%2BPgY3/eJRCIoioKiKADs7u5iGAZqo9HAMAy2trY4PDwkGo2iaRpHR0dkMkP09/cD0Gq1iMfj/Pj5k1qthu44Dvl8nmazyeLiIo7jkE6n0XWdROIFIoKqqvi%2Bz%2BDgIDfNJt%2B%2Bf0dNp/tZXV0lmUwShiGFQoFcLsfIyCg3Nzfs7%2B8ThiEiQrlc5uDggBPXRX3z5g/W1tYYHh7GsiwURaGvrw/Lspibm%2BNdNovjOORyOVKpFCOjo0xNTaGfnJwwMDDA/Pw82WyWaDRKLBZD1zV832f6/XvGxsYIw5BPn/7h1auXmKbJfxOLbqKnD/hMAAAAAElFTkSuQmCC" /></a>
+      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-2b2b52?style=flat-square&logo=data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAACiElEQVR4nD2QT0sbCRxA3/xDjGaCaZZEiWh01A/QghdPW%2Bbg9gt42F5T7KGLICIspetNuwcPLXjypIhXIbZzCkaP4iXmoKNIwKhtEtPoEI0zjr89rQ/e/fGUYrEYJhIJFEUhFotxcXGB53m4rsv29ja2bTM5OYmI8PDwgKZp1Ot1qNVqIiLSbrdlYWFBMpmM9Pb2yocPf8nnz/8KILZtS7Valf%2Bp1%2BuihmHI4%2BMjb9/%2BydLSEp7nEYlECAKf169/Z3Z2lnK5TKFQoN1uIyIEQYDSaDTk9PSUzc1NWq0Wd3d3WJaF67oUi0W%2BfPnKx49/8%2BtXk5WVFSYmJri6uoLLy0sZHx8XVVUFkM7OTgGeHRoaEtM0BZCZmRkREalUKqJrmkaj0eDp6Ynp6Wmq1Rp%2B4PNbIsHGxgbn5%2Bd0dXWh6zp7e3sAaJoGt7e3ks/nxbZtKZVKUiqVZHl5WUREksmkpFIpicfj0d3dLaZpSrPZlOvra6FSqYiIyPr6uriu%2B3zu7OxMOjo6npN7enoEkJ2dHbm/vxfVMAyCIMB1XVzXxfM8wjDk%2BPgY3/eJRCIoioKiKADs7u5iGAZqo9HAMAy2trY4PDwkGo2iaRpHR0dkMkP09/cD0Gq1iMfj/Pj5k1qthu44Dvl8nmazyeLiIo7jkE6n0XWdROIFIoKqqvi%2Bz%2BDgIDfNJt%2B%2Bf0dNp/tZXV0lmUwShiGFQoFcLsfIyCg3Nzfs7%2B8ThiEiQrlc5uDggBPXRX3z5g/W1tYYHh7GsiwURaGvrw/Lspibm%2BNdNovjOORyOVKpFCOjo0xNTaGfnJwwMDDA/Pw82WyWaDRKLBZD1zV832f6/XvGxsYIw5BPn/7h1auXmKbJfxOLbqKnD/hMAAAAAElFTkSuQmCC" /></a>
     </td>
+    <td align="left" valign="top">Building automation workflows with n8n, and exploring self-hosted AI agents like Hermes to handle repetitive tasks end-to-end</td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>OS</b></td>
-    <td align="left" width="75%"><a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a></td>
+    <td align="left" valign="top"><b>OS</b></td>
+    <td align="left" valign="top"><a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a></td>
+    <td align="left" valign="top">Daily driver for development, having tried a few different Linux distributions over time</td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Languages</b></td>
-    <td align="left" width="75%">
+    <td align="left" valign="top"><b>Languages</b></td>
+    <td align="left" valign="top">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
       <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
       <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
       <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
     </td>
+    <td align="left" valign="top">Still building fundamentals here, used across coursework and personal projects</td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Web & Mobile</b></td>
-    <td align="left" width="75%">
+    <td align="left" valign="top"><b>Web & Mobile</b></td>
+    <td align="left" valign="top">
       <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
       <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></a>
       <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
     </td>
+    <td align="left" valign="top">Built mobile apps for personal needs and websites for course and team projects</td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Data</b></td>
-    <td align="left" width="75%"><a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a></td>
+    <td align="left" valign="top"><b>Data</b></td>
+    <td align="left" valign="top"><a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a></td>
+    <td align="left" valign="top">Used for structured data storage in a few app projects</td>
   </tr>
   <tr>
-    <td align="left" width="25%"><b>Other Tools</b></td>
-    <td align="left" width="75%">
+    <td align="left" valign="top"><b>Other Tools</b></td>
+    <td align="left" valign="top">
       <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
       <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></a>
     </td>
+    <td align="left" valign="top">Version control for every project, and interface prototyping when needed</td>
   </tr>
 </table>
 
@@ -82,7 +88,7 @@
       <b><a href="YOUR_PROJECT_LINK_1" target="_blank">🏝️ Explore Penyengat</a></b><br><br>
       A smart tourism web app for Pulau Penyengat, combining location-based services, A* pathfinding, 3D landmark models, and an AI-powered travel assistant.<br><br>
       <b>Stack:</b> React · Vite · Leaflet.js · Three.js<br><br>
-    </td>l
+    </td>
     <td width="50%" valign="top">
       <b><a href="YOUR_PROJECT_LINK_2" target="_blank">🧠 Nalara: AI Learning App</a></b><br><br>
       An adaptive learning assistant, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.<br><br>
