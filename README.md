@@ -115,7 +115,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" width="762" alt="streak stats" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
