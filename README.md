@@ -35,7 +35,7 @@
     <td align="left" width="25%"><b>Automation</b></td>
     <td align="left" width="75%">
       <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
-      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-2b2b52?style=flat-square" /></a>
+      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-2b2b52?style=flat-square&logo=data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAACiElEQVR4nD2QT0sbCRxA3/xDjGaCaZZEiWh01A/QghdPW%2Bbg9gt42F5T7KGLICIspetNuwcPLXjypIhXIbZzCkaP4iXmoKNIwKhtEtPoEI0zjr89rQ/e/fGUYrEYJhIJFEUhFotxcXGB53m4rsv29ja2bTM5OYmI8PDwgKZp1Ot1qNVqIiLSbrdlYWFBMpmM9Pb2yocPf8nnz/8KILZtS7Valf%2Bp1%2BuihmHI4%2BMjb9/%2BydLSEp7nEYlECAKf169/Z3Z2lnK5TKFQoN1uIyIEQYDSaDTk9PSUzc1NWq0Wd3d3WJaF67oUi0W%2BfPnKx49/8%2BtXk5WVFSYmJri6uoLLy0sZHx8XVVUFkM7OTgGeHRoaEtM0BZCZmRkREalUKqJrmkaj0eDp6Ynp6Wmq1Rp%2B4PNbIsHGxgbn5%2Bd0dXWh6zp7e3sAaJoGt7e3ks/nxbZtKZVKUiqVZHl5WUREksmkpFIpicfj0t3dLaZpSrPZlOvra6FSqYiIyPr6uriu%2B3zu7OxMOjo6npN7enoEkJ2dHbm/vxfVMAyCIMB1XVzXxfM8wjDk%2BPgY3/eJRCIoioKiKADs7u5iGAZqo9HAMAy2trY4PDwkGo2iaRpHR0dkMkP09/cD0Gq1iMfj/Pj5k1qthu44Dvl8nmazyeLiIo7jkE6n0XWdROIFIoKqqvi%2Bz%2BDgIDfNJt%2B%2Bf0dNp/tZXV0lmUwShiGFQoFcLsfIyCg3Nzfs7%2B8ThiEiQrlc5uDggBPXRX3z5g/W1tYYHh7GsiwURaGvrw/Lspibm%2BNdNovjOORyOVKpFCOjo0xNTaGfnJwwMDDA/Pw82WyWaDRKLBZD1zV832f6/XvGxsYIw5BPn/7h1auXmKbJfxOLbqKnD/hMAAAAAElFTkSuQmCC" /></a>
     </td>
   </tr>
   <tr>
@@ -79,30 +79,26 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>🏝️ Explore Penyengat</b><br><br>
+      <b><a href="YOUR_PROJECT_LINK_1" target="_blank">🏝️ Explore Penyengat</a></b><br><br>
       A smart tourism web app for Pulau Penyengat, combining location-based services, A* pathfinding, 3D landmark models, and an AI-powered travel assistant.<br><br>
       <b>Stack:</b> React · Vite · Leaflet.js · Three.js<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_1" target="_blank">View Project</a><br>
-    </td>
+    </td>l
     <td width="50%" valign="top">
-      <b>🧠 Nalara: AI Learning App</b><br><br>
+      <b><a href="YOUR_PROJECT_LINK_2" target="_blank">🧠 Nalara: AI Learning App</a></b><br><br>
       An adaptive learning assistant, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.<br><br>
       <b>Stack:</b> Flutter · Riverpod · Node.js<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_2" target="_blank">View Project</a><br>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🔒 ECCChat</b><br><br>
+      <b><a href="YOUR_PROJECT_LINK_3" target="_blank">🔒 ECCChat</a></b><br><br>
       A secure Android chat app implementing Elliptic Curve Cryptography from scratch in Kotlin, with traffic verified end-to-end using Wireshark.<br><br>
       <b>Stack:</b> Kotlin · ECC · Wireshark<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_3" target="_blank">View Project</a><br>
     </td>
     <td width="50%" valign="top">
-      <b>🗺️ Isometric City Pathfinding Visualizer</b><br><br>
+      <b><a href="YOUR_PROJECT_LINK_4" target="_blank">🗺️ Isometric City Pathfinding Visualizer</a></b><br><br>
       A Python/Pygame simulation comparing A* and Bidirectional A* pathfinding over a procedurally generated isometric city (MST + convex hull road layout).<br><br>
       <b>Stack:</b> Python · Pygame<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_4" target="_blank">View Project</a><br>
     </td>
   </tr>
 </table>
