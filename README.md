@@ -107,17 +107,19 @@
 
 ### 📊 GitHub Stats
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="57%" valign="top">
-      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    <td width="59%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="GitHub Stats" />
     </td>
-    <td width="43%" valign="top">
+    <td width="2%"></td>
+    <td width="39%" valign="top">
       <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
+  <tr><td colspan="3" height="12"></td></tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="3" valign="top">
       <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" alt="streak stats" />
     </td>
   </tr>
