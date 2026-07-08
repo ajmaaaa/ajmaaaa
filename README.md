@@ -79,31 +79,30 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏝️ Explore Penyengat</h4>
-      <p>A smart tourism web app for Pulau Penyengat, combining location-based services, A* pathfinding, 3D landmark models, and an AI-powered travel assistant.</p>
+      <b>🏝️ Explore Penyengat</b><br><br>
+      A smart tourism web app for Pulau Penyengat, combining location-based services, A* pathfinding, 3D landmark models, and an AI-powered travel assistant.<br><br>
       <b>Stack:</b> React · Vite · Leaflet.js · Three.js<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_1" target="_blank">View Project</a>
+      🔗 <a href="YOUR_PROJECT_LINK_1" target="_blank">View Project</a><br>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 Nalara: AI Learning App</h4>
-      <p>An adaptive learning assistant, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.</p>
+      <b>🧠 Nalara: AI Learning App</b><br><br>
+      An adaptive learning assistant, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.<br><br>
       <b>Stack:</b> Flutter · Riverpod · Node.js<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_2" target="_blank">View Project</a>
+      🔗 <a href="YOUR_PROJECT_LINK_2" target="_blank">View Project</a><br>
     </td>
   </tr>
-  <tr><td colspan="2" height="15"></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔒 ECCChat</h4>
-      <p>A secure Android chat app implementing Elliptic Curve Cryptography from scratch in Kotlin, with traffic verified end-to-end using Wireshark.</p>
+      <b>🔒 ECCChat</b><br><br>
+      A secure Android chat app implementing Elliptic Curve Cryptography from scratch in Kotlin, with traffic verified end-to-end using Wireshark.<br><br>
       <b>Stack:</b> Kotlin · ECC · Wireshark<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_3" target="_blank">View Project</a>
+      🔗 <a href="YOUR_PROJECT_LINK_3" target="_blank">View Project</a><br>
     </td>
     <td width="50%" valign="top">
-      <h4>🗺️ Isometric City Pathfinding Visualizer</h4>
-      <p>A Python/Pygame simulation comparing A* and Bidirectional A* pathfinding over a procedurally generated isometric city (MST + convex hull road layout).</p>
+      <b>🗺️ Isometric City Pathfinding Visualizer</b><br><br>
+      A Python/Pygame simulation comparing A* and Bidirectional A* pathfinding over a procedurally generated isometric city (MST + convex hull road layout).<br><br>
       <b>Stack:</b> Python · Pygame<br><br>
-      🔗 <a href="YOUR_PROJECT_LINK_4" target="_blank">View Project</a>
+      🔗 <a href="YOUR_PROJECT_LINK_4" target="_blank">View Project</a><br>
     </td>
   </tr>
 </table>
