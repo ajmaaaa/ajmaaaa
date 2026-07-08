@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Meyky 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Computer+Science+Student;Building+with+React+%2B+Firebase+%2B+Gemini+API;Passionate+about+Local+Tech+%26+Culture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Systems+%26+Automation+Enthusiast;Sleep+to+dream%2C+wake+up+to+build+it;Turn+your+effort+into+prayer%2C+and+your+prayer+into+effort" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science student at **Universitas Maritim Raja Ali Haji (UMRAH)**, Kepulauan Riau, Indonesia
+- ⚙️ Passionate about **systems and automation** — how things run, connect, and stay reliable matters more to me than the surface
 - 🧩 Learning the fundamentals of web & mobile development — built mobile apps for personal needs and websites for course/team projects
-- ⚙️ I care about building things that are **simple, optimal, and secure**, not just functional
 - 🔐 Interested in cybersecurity, though I haven't formally started that path yet — currently focused on automation
 - 🌱 Currently exploring **automation workflows** with n8n
 - 🤖 Interested in learning to build **my own AI agents**
@@ -25,40 +25,74 @@
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Stack |
-|---|---|
-| **Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) <img src="https://hermes-ai.net/img/hermes-logo.png" height="20" alt="Hermes"/> Hermes |
-| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Web & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Backend / Data** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Other Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+<table align="center">
+  <tr><th align="center">Category</th><th align="center">Stack</th></tr>
+  <tr>
+    <td align="center"><b>Automation</b></td>
+    <td align="center">
+      <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
+      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-1a1a2e?style=flat-square" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>OS</b></td>
+    <td align="center"><a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+      <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+      <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
+      <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web & Mobile</b></td>
+    <td align="center">
+      <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
+      <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></a>
+      <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td align="center"><a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Other Tools</b></td>
+    <td align="center">
+      <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+      <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌟 Featured Projects
+<h2 align="center">🌟 Featured Projects</h2>
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🏝️ Explore Penyengat</h4>
-      <p>A smart cultural-heritage tourism web app for Pulau Penyengat — combining location-based services, A* pathfinding, 3D landmark models, and a Gemini-powered RAG travel assistant.</p>
+      <h4><a href="YOUR_PROJECT_LINK_1" target="_blank">🏝️ Explore Penyengat</a></h4>
+      <p>A smart tourism web app for Pulau Penyengat — combining location-based services, A* pathfinding, 3D landmark models, and an AI-powered travel assistant.</p>
       <b>Stack:</b> React · Vite · Leaflet.js · Three.js
     </td>
     <td width="50%">
-      <h4>🧠 Nalara — AI Learning App</h4>
-      <p>An adaptive learning assistant built with Gemini API and Firebase, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.</p>
-      <b>Stack:</b> Flutter · Riverpod · Node.js · Firebase
+      <h4><a href="YOUR_PROJECT_LINK_2" target="_blank">🧠 Nalara — AI Learning App</a></h4>
+      <p>An adaptive learning assistant, evolving from a Kotlin/MVVM Android app into a cross-platform Flutter/Riverpod app with a Node.js backend.</p>
+      <b>Stack:</b> Flutter · Riverpod · Node.js
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🔒 ECCChat</h4>
+      <h4><a href="YOUR_PROJECT_LINK_3" target="_blank">🔒 ECCChat</a></h4>
       <p>A secure Android chat app implementing Elliptic Curve Cryptography from scratch in Kotlin, with traffic verified end-to-end using Wireshark.</p>
-      <b>Stack:</b> Kotlin · Firebase · ECC · Wireshark
+      <b>Stack:</b> Kotlin · ECC · Wireshark
     </td>
     <td width="50%">
-      <h4>🗺️ Isometric City Pathfinding Visualizer</h4>
+      <h4><a href="YOUR_PROJECT_LINK_4" target="_blank">🗺️ Isometric City Pathfinding Visualizer</a></h4>
       <p>A Python/Pygame simulation comparing A* and Bidirectional A* pathfinding over a procedurally generated isometric city (MST + convex hull road layout).</p>
       <b>Stack:</b> Python · Pygame
     </td>
@@ -89,7 +123,7 @@
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your-public-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
