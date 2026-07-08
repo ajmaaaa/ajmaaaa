@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Meyky 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+%26+Automation+Enthusiast;Sleep+to+dream%2C+wake+up+to+build+it;Turn+your+effort+into+prayer%2C+and+your+prayer+into+effort" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+%26+Automation+Explorer;Sleep+to+dream%2C+wake+up+to+build+it;Turn+your+effort+into+prayer%2C+and+your+prayer+into+effort" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,21 +26,21 @@
 ### 🛠️ Tech Stack & Tools
 
 <table width="100%">
-  <tr><th align="center" width="30%">Category</th><th align="center" width="70%">Stack</th></tr>
+  <tr><th align="left" width="30%">Category</th><th align="left" width="70%">Stack</th></tr>
   <tr>
-    <td align="center"><b>Automation</b></td>
-    <td align="center">
+    <td align="left"><b>Automation</b></td>
+    <td align="left">
       <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
-      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-1a1a2e?style=flat-square" /></a>
+      <a href="https://hermes-ai.net" target="_blank"><img src="https://hermes-ai.net/img/hermes-logo.png" height="20" alt="Hermes"/> Hermes</a>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>OS</b></td>
-    <td align="center"><a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a></td>
+    <td align="left"><b>OS</b></td>
+    <td align="left"><a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a></td>
   </tr>
   <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center">
+    <td align="left"><b>Languages</b></td>
+    <td align="left">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
       <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
       <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
@@ -48,20 +48,20 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Web & Mobile</b></td>
-    <td align="center">
+    <td align="left"><b>Web & Mobile</b></td>
+    <td align="left">
       <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
       <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /></a>
       <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Data</b></td>
-    <td align="center"><a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a></td>
+    <td align="left"><b>Data</b></td>
+    <td align="left"><a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a></td>
   </tr>
   <tr>
-    <td align="center"><b>Other Tools</b></td>
-    <td align="center">
+    <td align="left"><b>Other Tools</b></td>
+    <td align="left">
       <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
       <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></a>
     </td>
@@ -104,12 +104,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmaaaa&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ajmaaaa&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
