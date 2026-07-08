@@ -108,12 +108,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/ajmaaaa">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" width="780" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" width="762" alt="streak stats" />
 </p>
 
 ---
