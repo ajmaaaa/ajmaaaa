@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Meyky 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Systems+%26+Automation+Enthusiast;Sleep+to+dream%2C+wake+up+to+build+it;Turn+your+effort+into+prayer%2C+and+your+prayer+into+effort" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Systems+%26+Automation+Enthusiast;Sleep+to+dream%2C+wake+up+to+build+it;Turn+your+effort+into+prayer%2C+and+your+prayer+into+effort" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<table align="center">
-  <tr><th align="center">Category</th><th align="center">Stack</th></tr>
+<table width="100%">
+  <tr><th align="center" width="30%">Category</th><th align="center" width="70%">Stack</th></tr>
   <tr>
     <td align="center"><b>Automation</b></td>
     <td align="center">
