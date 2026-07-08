@@ -13,13 +13,17 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student at **Universitas Maritim Raja Ali Haji (UMRAH)**, Kepulauan Riau, Indonesia
-- ⚙️ Passionate about **systems and automation** — how things run, connect, and stay reliable matters more to me than the surface
-- 🧩 Learning the fundamentals of web & mobile development — built mobile apps for personal needs and websites for course/team projects
-- 🔐 Interested in cybersecurity, though I haven't formally started that path yet — currently focused on automation
-- 🌱 Currently exploring **automation workflows** with n8n
-- 🤖 Interested in learning to build **my own AI agents**
-- 📫 Reach me at: **your-public-email@example.com**
+🎓 Computer Science student at **Universitas Maritim Raja Ali Haji (UMRAH)**, Kepulauan Riau, Indonesia
+
+⚙️ Passionate about **systems and automation** — how things run, connect, and stay reliable matters more to me than the surface
+
+🧩 Learning the fundamentals of web & mobile development — built mobile apps for personal needs and websites for course/team projects
+
+🔐 Interested in cybersecurity, though I haven't formally started that path yet — currently focused on automation
+
+🌱 Currently exploring **automation workflows** with n8n
+
+🤖 Interested in learning to build **my own AI agents**
 
 ---
 
@@ -31,7 +35,7 @@
     <td align="left"><b>Automation</b></td>
     <td align="left">
       <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
-      <a href="https://hermes-ai.net" target="_blank"><img src="https://hermes-ai.net/img/hermes-logo.png" height="20" alt="Hermes"/> Hermes</a>
+      <a href="https://hermes-ai.net" target="_blank"><img src="https://img.shields.io/badge/Hermes-2b2b52?style=flat-square" /></a>
     </td>
   </tr>
   <tr>
@@ -104,8 +108,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="210" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="210" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
