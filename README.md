@@ -107,16 +107,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ajmaaaa">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" alt="streak stats" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="57%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=ajmaaaa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="43%" valign="top">
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajmaaaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ajmaaaa&theme=tokyonight" alt="streak stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
